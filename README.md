@@ -14,6 +14,6 @@ top products by profit, and territory-wise sales.
 7.These steps collectively demonstrate database management, data transformation, 
 and the execution of analytical queries to extract meaningful insights from the Adventure Works dataset.
 
-MySQL Link:
+MySQL Link:https://drive.google.com/file/d/1Qq0sELg3CM4W1l_VfmsW0JcUd9RSTgFw/view?usp=sharing
 
-PDF Link:
+PDF Link:https://drive.google.com/file/d/1Qq0sELg3CM4W1l_VfmsW0JcUd9RSTgFw/view?usp=sharing
