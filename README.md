@@ -16,4 +16,4 @@ and the execution of analytical queries to extract meaningful insights from the 
 
 MySQL Link:https://drive.google.com/file/d/1Qq0sELg3CM4W1l_VfmsW0JcUd9RSTgFw/view?usp=sharing
 
-PDF Link:https://drive.google.com/file/d/1Qq0sELg3CM4W1l_VfmsW0JcUd9RSTgFw/view?usp=sharing
+PDF Link:https://drive.google.com/file/d/1-ZHAs8-XNvfRuaD86AjpQ4B14AJX8L14/view?usp=sharing
